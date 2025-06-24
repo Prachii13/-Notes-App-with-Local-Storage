@@ -1,0 +1,5 @@
+notes-app/
+├── index.html        # HTML layout
+├── style.css         # Styling
+├── script.js         # Logic with localStorage
+└── README.md         # Project details
